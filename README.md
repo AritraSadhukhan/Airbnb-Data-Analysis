@@ -61,5 +61,4 @@ This Airbnb analysis project provides valuable business intelligence into how Ai
 
 ---
 
-> 📝 *Replace `your-username` in the image URL with your actual GitHub username.*  
-> ✨ Don't forget to add your Power BI report or Jupyter Notebook to the repo!
+
